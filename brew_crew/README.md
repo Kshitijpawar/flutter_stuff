@@ -1,8 +1,6 @@
-# Learning Flutter
+# brew_crew
 
-1.)flutter_chat -> Google Codelabs
-2.)locapp -> simple location detail app(for navigation)
-3.)brew_crew -> Firebase intergation tutorial
+A new Flutter project with Firebase intergration.
 
 ## Getting Started
 
