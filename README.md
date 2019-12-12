@@ -1,8 +1,8 @@
 # Learning Flutter
 
-1.)flutter_chat -> Google Codelabs
-2.)locapp -> simple location detail app(for navigation)
-3.)brew_crew -> Firebase intergation tutorial
+1.)flutter_chat -> Google Codelabs  
+2.)locapp -> simple location detail app(for navigation)  
+3.)brew_crew -> Firebase intergation tutorial  
 
 ## Getting Started
 
