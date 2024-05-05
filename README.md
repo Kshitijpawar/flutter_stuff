@@ -4,6 +4,7 @@
 2.)locapp -> simple location detail app(for navigation)  
 3.)brew_crew -> Firebase intergation tutorial  
 4.)world_time -> World Time using API
+5.)expense_tracker
 
 ## Getting Started
 
